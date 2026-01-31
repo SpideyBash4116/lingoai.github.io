@@ -1,0 +1,7 @@
+{
+  "name": "LingoAI - Interactive Language Tutor",
+  "description": "A high-performance language learning application powered by Gemini, featuring real-time AI conversations, dynamic lessons, and progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
